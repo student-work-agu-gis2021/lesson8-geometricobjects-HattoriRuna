@@ -27,6 +27,8 @@ print(data.head())
 # 
 
 # YOUR CODE HERE 2 to set `data`
+# Update data variables
+data = data.filter(['x', 'y', 'x', 'y'])
 
 # CODE FOR TESTING YOUR SOLUTION
 print(list(data.columns))
