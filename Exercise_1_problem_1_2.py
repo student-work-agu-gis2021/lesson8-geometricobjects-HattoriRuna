@@ -157,6 +157,7 @@ except Exception as e:
 
 # YOUR CODE HERE 8 to define get_area()
 
+
 # Test and demonstrate the usage of the function:
 get_area(poly1)
 
