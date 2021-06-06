@@ -35,9 +35,12 @@ print(list(data.columns))
 
 
 # 3: Create two empty lists called **`orig_points`** and **`dest_points`**. We will store the shapely points in these lists in the next step.
-# 
+# Create two empty lists
+orig_points = []
+dest_points = []
 
 # YOUR CODE HERE 3 to define empty lists orig_points and dest_points
+
 
 # CODE FOR TESTING YOUR SOLUTION
 
