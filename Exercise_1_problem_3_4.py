@@ -175,7 +175,7 @@ def calculat_total_distance(Line):
   for line in od_lines:
     total_length += line.length
     return total_length
-    
+
 # CODE FOR TESTING YOUR SOLUTION
 
 # Use the functions
