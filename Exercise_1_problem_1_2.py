@@ -194,6 +194,7 @@ def get_length(geom):
   elif geom.geom_type == 'Polygon':
     return geom.exterior.length
 
+
 # Test and demonstrate the usage of the function:
 
 get_length(poly1)
